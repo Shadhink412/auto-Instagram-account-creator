@@ -74,7 +74,7 @@ rm -f main.py
 
 **Step 4:** Clone the repo
 ```
-git clone https://github.com/HyperGox/gox.git
+git clone https://github.com/Shadhink412/auto-Instagram-account-creator.git
 ```
 
 **Step 5:** Go to folder
