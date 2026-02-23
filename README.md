@@ -89,7 +89,7 @@ pip install requests
 
 **Step 7:** Run
 ```
-python ig.py
+python main.py
 ```
 
 ### Windows
@@ -111,7 +111,7 @@ pip install requests
 
 **Step 4:** Run
 ```
-python ig.py
+python main.py
 ```
 
 ---
