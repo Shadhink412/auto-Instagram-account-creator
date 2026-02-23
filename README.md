@@ -1,4 +1,10 @@
+
 <h1 align="center">GOX — Instagram Account Generator</h1>
+
+<p align="center">
+  <a href="https://t.me/GoxToolz"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" /></a>
+</p>
+
 
 <p align="center">
   <b>Professional • Fast • Cross-Platform</b>
@@ -79,7 +85,7 @@ git clone https://github.com/Shadhink412/auto-Instagram-account-creator.git
 
 **Step 5:** Go to folder
 ```
-cd gox
+cd auto-Instagram-account-creator
 ```
 
 **Step 6:** Install dependencies
@@ -96,12 +102,12 @@ python main.py
 
 **Step 1:** Clone the repo
 ```
-git clone https://github.com/HyperGox/gox.git
+git clone https://github.com/Shadhink412/auto-Instagram-account-creator.git
 ```
 
 **Step 2:** Go to folder
 ```
-cd gox
+cd auto-Instagram-account-creator
 ```
 
 **Step 3:** Install dependencies
